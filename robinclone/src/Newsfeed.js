@@ -4,7 +4,7 @@ import LineGraph from './LineGraph'
 
 function Newsfeed() {
   return (
-    <div className='newsfeed'>
+    <div className='newsfeed' src="Newsfeed.css">
         <div className='newsfeed_container'>
             <div className='newsfeed_chartSection'>
                 <div className='newsfeed__portfolio'>
